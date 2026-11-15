@@ -27,3 +27,18 @@ Thumbs.db
 dataset/
 
 cic_iot_multiclass_models.pkl
+
+# Machine learning model files
+other_model_data.pkl
+xgboost_model.json
+
+# Dataset files
+*.csv
+
+# Prediction output
+xgboost_result.json
+
+# Angular dependencies and build files
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
